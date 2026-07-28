@@ -4,7 +4,7 @@
 
 > ⚠️ **This repository contains documentation only.**  
 > The full source code is a **paid / licensed product** and is **not** published here.  
-> **To purchase, get updates, or request a demo:** contact me via [GitHub — code-root](https://github.com/code-root).
+> **To purchase, get updates, or request a demo:** see [Maintainer & contact](#maintainer-company--contact-) below.
 
 ---
 
@@ -259,7 +259,32 @@ python3 -m ttkit_clean --follow --email=user@mail.tm --target=coderoot.ksa -v
 
 ---
 
-## Disclaimer
+## Maintainer, company & contact 👤
+
+| | |
+|---|---|
+| **Developer** | Mostafa Al-Bagouri |
+| **Company** | Storage TE |
+| **WhatsApp** | [+20 100 199 5914](https://wa.me/201001995914) |
+| **Email** | [info@storage-te.com](mailto:info@storage-te.com) |
+| **GitHub** | [code-root](https://github.com/code-root) |
+
+For licensing, purchase, demos, and technical support — WhatsApp or email is fastest.
+
+---
+
+## Support this project ☕
+
+If this toolkit is useful to you, optional support helps maintain and improve it and related work. Pick whatever works best for you.
+
+| Channel | How to support |
+|---------|----------------|
+| **PayPal** | [paypal.me/sofaapi](https://paypal.me/sofaapi) |
+| **Binance Pay / UID** | `1138751298` — send from the Binance app (Pay / internal transfer when available). |
+| **Binance — deposit (web)** | [Deposit crypto (Binance)](https://www.binance.com/en/my/wallet/account/main/deposit/crypto) — sign in, pick the asset, then select **BSC (BEP20)**. |
+| **BSC address (copy)** | `0x94c5005229784d9b7df4e7a7a0c3b25a08fd57bc` |
+
+---
 
 Educational / research documentation only. Use responsibly and in compliance with TikTok ToS and local laws.
 
@@ -269,9 +294,11 @@ Educational / research documentation only. Use responsibly and in compliance wit
 
 **Source code is not open source.** This repo is documentation only.
 
-For the full package, updates, support, or commercial license:
+For the full package, updates, support, or commercial license, contact:
 
-**GitHub:** [code-root](https://github.com/code-root)
+- **WhatsApp:** [+20 100 199 5914](https://wa.me/201001995914)
+- **Email:** [info@storage-te.com](mailto:info@storage-te.com)
+- **GitHub:** [code-root](https://github.com/code-root)
 
 ---
 
@@ -281,7 +308,7 @@ For the full package, updates, support, or commercial license:
 
 > ⚠️ **هذا المستودع يحتوي على التوثيق فقط.**  
 > الكود المصدري **منتج مدفوع / مرخّص** وغير منشور هنا.  
-> **للشراء أو التحديثات أو العرض التجريبي:** تواصل معي عبر [GitHub — code-root](https://github.com/code-root).
+> **للشراء أو التحديثات أو العرض التجريبي:** راجع [المطوّر والتواصل](#المطوّر-والشركة-والتواصل-) أدناه.
 
 ---
 
@@ -412,8 +439,41 @@ python3 -m ttkit_clean --follow --email=USER@mail.tm --target=coderoot.ksa -v
 
 ---
 
+---
+
+## المطوّر والشركة والتواصل 👤
+
+| | |
+|---|---|
+| **المطوّر** | مصطفى الباجوري (Mostafa Al-Bagouri) |
+| **الشركة** | Storage TE |
+| **واتساب** | [+20 100 199 5914](https://wa.me/201001995914) |
+| **البريد** | [info@storage-te.com](mailto:info@storage-te.com) |
+| **GitHub** | [code-root](https://github.com/code-root) |
+
+للترخيص والشراء والعروض التجريبية والدعم الفني — الواتساب أو الإيميل أسرع.
+
+---
+
+## ادعم المشروع ☕
+
+إذا كان هذا الـ toolkit مفيداً لك، الدعم الاختياري يساعد في صيانته وتطويره والعمل المرتبط به. اختر الطريقة الأنسب لك.
+
+| القناة | طريقة الدعم |
+|--------|-------------|
+| **PayPal** | [paypal.me/sofaapi](https://paypal.me/sofaapi) |
+| **Binance Pay / UID** | `1138751298` — أرسل من تطبيق Binance (Pay / تحويل داخلي عند التوفر). |
+| **Binance — إيداع (ويب)** | [إيداع عملة رقمية (Binance)](https://www.binance.com/en/my/wallet/account/main/deposit/crypto) — سجّل الدخول، اختر العملة، ثم **BSC (BEP20)**. |
+| **عنوان BSC (نسخ)** | `0x94c5005229784d9b7df4e7a7a0c3b25a08fd57bc` |
+
+---
+
 ## الترخيص والشراء
 
 **الكود غير مفتوح المصدر.** هذا المستودع للتوثيق فقط.
 
-**GitHub:** [code-root](https://github.com/code-root)
+للحصول على الحزمة الكاملة أو التحديثات أو الدعم أو الترخيص التجاري:
+
+- **واتساب:** [+20 100 199 5914](https://wa.me/201001995914)
+- **إيميل:** [info@storage-te.com](mailto:info@storage-te.com)
+- **GitHub:** [code-root](https://github.com/code-root)
