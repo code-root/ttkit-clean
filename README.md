@@ -23,7 +23,7 @@
 
 Everything runs from one folder — vendored deps, SignServer JAR, and runtime data.
 
----
+--
 
 ## Package layout — file-by-file reference
 
