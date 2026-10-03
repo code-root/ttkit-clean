@@ -3,8 +3,16 @@
 **Language / اللغة:** English (default) · [العربية ↓](#العربية)
 
 > ⚠️ **This repository contains documentation only.**  
-> The full source code is a **paid / licensed product** and is **not** published here.  
-> **To purchase, get updates, or request a demo:** see [Maintainer & contact](#maintainer-company--contact-) below.
+> The full source code is a **paid / licensed product** and is **not** published here.
+
+### Full version — buy here
+
+| | |
+|--|--|
+| **Buy the full version (EN)** | [strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation) |
+| **شراء النسخة الكاملة (AR)** | [strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation) |
+
+[![Buy ttkit_clean — full version](https://img.shields.io/badge/Buy%20full%20version-ttkit__clean-FF4500?style=for-the-badge)](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation)
 
 ---
 
@@ -268,8 +276,9 @@ python3 -m ttkit_clean --follow --email=user@mail.tm --target=coderoot.ksa -v
 | **WhatsApp** | [+20 100 199 5914](https://wa.me/201001995914) |
 | **Email** | [info@storage-te.com](mailto:info@storage-te.com) |
 | **GitHub** | [code-root](https://github.com/code-root) |
+| **Buy full version** | [Strong Studio — ttkit_clean](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation) |
 
-For licensing, purchase, demos, and technical support — WhatsApp or email is fastest.
+For licensing, purchase, demos, and technical support — use the store page above, or WhatsApp / email.
 
 ---
 
@@ -294,7 +303,12 @@ Educational / research documentation only. Use responsibly and in compliance wit
 
 **Source code is not open source.** This repo is documentation only.
 
-For the full package, updates, support, or commercial license, contact:
+**Buy the full package here:**
+
+- **English:** [strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation)
+- **العربية:** [strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation)
+
+For updates, support, or a commercial license:
 
 - **WhatsApp:** [+20 100 199 5914](https://wa.me/201001995914)
 - **Email:** [info@storage-te.com](mailto:info@storage-te.com)
@@ -307,8 +321,16 @@ For the full package, updates, support, or commercial license, contact:
 # العربية
 
 > ⚠️ **هذا المستودع يحتوي على التوثيق فقط.**  
-> الكود المصدري **منتج مدفوع / مرخّص** وغير منشور هنا.  
-> **للشراء أو التحديثات أو العرض التجريبي:** راجع [المطوّر والتواصل](#المطوّر-والشركة-والتواصل-) أدناه.
+> الكود المصدري **منتج مدفوع / مرخّص** وغير منشور هنا.
+
+### النسخة الكاملة — رابط الشراء
+
+| | |
+|--|--|
+| **شراء النسخة الكاملة (عربي)** | [strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation) |
+| **Buy the full version (EN)** | [strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation) |
+
+[![شراء ttkit_clean — النسخة الكاملة](https://img.shields.io/badge/شراء%20النسخة%20الكاملة-ttkit__clean-FF4500?style=for-the-badge)](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation)
 
 ---
 
@@ -450,8 +472,9 @@ python3 -m ttkit_clean --follow --email=USER@mail.tm --target=coderoot.ksa -v
 | **واتساب** | [+20 100 199 5914](https://wa.me/201001995914) |
 | **البريد** | [info@storage-te.com](mailto:info@storage-te.com) |
 | **GitHub** | [code-root](https://github.com/code-root) |
+| **شراء النسخة الكاملة** | [Strong Studio — ttkit_clean](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation) |
 
-للترخيص والشراء والعروض التجريبية والدعم الفني — الواتساب أو الإيميل أسرع.
+للترخيص والشراء والعروض التجريبية والدعم الفني — صفحة المتجر أعلاه، أو الواتساب / الإيميل.
 
 ---
 
@@ -472,7 +495,12 @@ python3 -m ttkit_clean --follow --email=USER@mail.tm --target=coderoot.ksa -v
 
 **الكود غير مفتوح المصدر.** هذا المستودع للتوثيق فقط.
 
-للحصول على الحزمة الكاملة أو التحديثات أو الدعم أو الترخيص التجاري:
+**شراء الحزمة الكاملة من هنا:**
+
+- **العربية:** [strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/ar/strong-studio/ttkit-clean-tiktok-automation)
+- **English:** [strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation](https://strong-pnd.com/en/strong-studio/ttkit-clean-tiktok-automation)
+
+للتحديثات أو الدعم أو الترخيص التجاري:
 
 - **واتساب:** [+20 100 199 5914](https://wa.me/201001995914)
 - **إيميل:** [info@storage-te.com](mailto:info@storage-te.com)
